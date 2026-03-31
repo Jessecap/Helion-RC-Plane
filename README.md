@@ -13,4 +13,4 @@ Helion is an RC plane that me and my friend Elliott plan to custom make and fly.
 
 
 ## SOLIDWORKS step file
-![](
+![](Helion.STEP)
