@@ -10,3 +10,6 @@ Helion is an RC plane that me and my friend Elliott plan to custom make and fly.
 
 ## Solar pannel wiring
 ![](Parallel-solar-panel-wiring.png)
+
+
+## SOLIDWORKS step file
