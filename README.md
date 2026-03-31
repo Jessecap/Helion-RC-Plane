@@ -6,3 +6,7 @@ Helion is an RC plane that me and my friend Elliott plan to custom make and fly.
 
 ## 3D model in SOLIDWORKS
 ![](rc-plane.png)
+
+
+## Solar pannel wiring
+![](Parallel-solar-panel-wiring.png)
